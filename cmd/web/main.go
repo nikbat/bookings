@@ -83,6 +83,7 @@ func firstPage() {
 
 }
 
+// this is a basic GoLang
 func basic() {
 
 	log.Println(s1)
